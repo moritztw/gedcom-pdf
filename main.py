@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from gedcom-parse import parse
+from gedcom_parse import parse
 
 if __name__ == '__main__':
     import sys
