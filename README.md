@@ -6,7 +6,7 @@ Create good looking pdf books from your gedcom files.
 
 Using the flag
 
-`main.py --just-parse --file:"./shakespeare.ged" --output:json`
+`main.py --just-parse --output:json "./shakespeare.ged"`
 
 will return a JSON dump of the inserted .ged file
 
